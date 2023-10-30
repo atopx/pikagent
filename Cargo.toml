@@ -6,6 +6,6 @@ authors = ["atopx <3940422@qq.com>"]
 repository = "https://github.com/atopx/pikagent.git"
 description = "agent pikafish"
 license = "MIT"
-keywords = ["pikafish", "xiangqi", "chinese chess"]
+keywords = ["pikafish", "xiangqi", "ChineseChess"]
 
 [dependencies]
